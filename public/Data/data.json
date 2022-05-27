@@ -1,0 +1,33 @@
+{
+    "header" : {
+        "invoice" : "#4987",
+        "title" : "Office 149, 450 South Brand Brooklyn San Diego County, CA 91905, USA +1 (123) 456 7891, +44 (876) 543 2198",
+        "dateIssued" : "13 Dec 2019",
+        "dueDate" : "23 Apr 2019"
+    },
+    "content" : {
+        "fullName" : "Jordan Stevenson",
+        "info" : "Hall-Robbins PLC 7777 Mendez Plains (616) 865-4180 don85@johnson.com",
+        "totalDue" : "$12,110.55",
+        "bankName" : "American Bank",
+        "country" : "United States",
+        "iBAN" : "ETD95476213874685",
+        "swiftCode" : "BR91905"
+    },
+    "tableHeaders" : ["Task description" , "Rate" , "Total"],
+    "tasks" : [
+        {
+            "title" : "Native App Development",
+            "description" : "Developed a full stack native app using React Native, Bootstrap & Python",
+            "rate" : "$60.00",
+            "total" : "$1,800.00"
+        },
+        {
+            "title" : "Ui Kit Design",
+            "description" : "Designed a UI kit for native app using Sketch, Figma & Adobe XD",
+            "rate" : "$60.00",
+            "total" : "$1200.00"
+        }
+    ],
+    "salesperson" : "Alfie Solomons"
+}

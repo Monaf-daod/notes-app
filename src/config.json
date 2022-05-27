@@ -1,0 +1,9 @@
+{
+    "apiEndPoint" : "https://jsonplaceholder.typicode.com/posts",
+    "apiCreateUserEndPoint" : "https://reqres.in/api/register",
+    "apiLogInEndPoint" : "https://reqres.in/api/login",
+    "apiGetCuurentUser" : "https://reqres.in/api/users"
+}
+    
+        
+    
